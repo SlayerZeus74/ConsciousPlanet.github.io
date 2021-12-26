@@ -1,0 +1,54 @@
+body {
+	
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+body{
+	background-color: blanchedalmond;
+	color: white;
+	background-image: url(../images/soil1.png);
+}
+
+#container{
+	background-color: rgba(92, 99, 87, 0.603);
+	width: 500px;
+	padding:25px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+	
+}
+h1{
+    padding: 2px;
+    font-size: 50px;
+    font-family: 'Secular One', sans-serif;
+    background-color: rgb(124, 76, 4);
+    text-align: center;
+    border-radius: 6px;
+}
+h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
+   background-color: rgb(63, 165, 42);
+    padding: 5px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+a{
+	color: #78c5fc;
+	text-decoration: none; /*to hide the underlines on links*/
+  
+}
+
+h3{
+    padding: 5px;
+  
+    border-radius: 5px;
+    text-align: center;
+   
+    
+
+}
